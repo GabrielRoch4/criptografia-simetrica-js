@@ -23,3 +23,6 @@ git clone https://github.com/GabrielRoch4/criptografia-simetrica-js.git
 - index.html: HTML structure of the interface
 - styles.css: CSS styles
 - script.js: JavaScript logic for encryption
+
+![image](https://github.com/user-attachments/assets/edebdc45-92f3-47b7-be6e-d5968fef087f)
+
