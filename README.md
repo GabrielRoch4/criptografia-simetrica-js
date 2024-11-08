@@ -19,7 +19,8 @@ git clone https://github.com/GabrielRoch4/criptografia-simetrica-js.git
 - Enter the Encryption Key.
 - Click on Encrypt to generate the encrypted message.
 - To decrypt, enter the encrypted text and click on Decrypt.
-- Project Structure
+  
+## Project Structure
 - index.html: HTML structure of the interface
 - styles.css: CSS styles
 - script.js: JavaScript logic for encryption
